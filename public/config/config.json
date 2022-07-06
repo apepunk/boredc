@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9BcF5D102d3897DD037AeD91BBfBBA1e06b15172",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9BcF5D102d3897DD037AeD91BBfBBA1e06b15172",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Cryptopunk",
+  "SYMBOL": "BCP",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-cryptopunk",
+  "SHOW_BACKGROUND": true
+}
